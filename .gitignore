@@ -1,0 +1,7 @@
+__pycache__
+*.zip
+*.pkl
+*.h5
+*.npy
+*.txt
+deprecated

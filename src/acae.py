@@ -31,9 +31,8 @@ import data_flower
 import visualizations
 
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 DATASET = r"./point_cloud/train"
-TESTSET = r"D:/AI_Dataset/point_cloud/test"
+TESTSET = r"./point_cloud/test"
 
 
 def cut_points(args, k=100):  # Hard cut, BP will fail

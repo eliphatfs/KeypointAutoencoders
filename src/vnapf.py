@@ -33,9 +33,8 @@ import visualizations
 import classification
 
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "2"
 DATASET = r"./point_cloud/train"
-TESTSET = r"D:/AI_DataSet/point_cloud/test"
+TESTSET = r"./point_cloud/test"
 
 
 def cut_points(args, k=100):  # Hard cut, BP will fail

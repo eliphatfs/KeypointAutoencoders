@@ -1,5 +1,5 @@
 # Keypoint Autoencoders
-This is the repository that contains the code of the paper `Keypoint Autoencoders: Learning Interest Points of Semantics`.
+This repository contains code of the paper `Keypoint Autoencoders: Learning Interest Points of Semantics`.
 
 ## Training
 To run the training process:
